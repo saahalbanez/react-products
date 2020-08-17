@@ -1,0 +1,21 @@
+* {  
+    background: #F1F3F3 0% 0% no-repeat padding-box !important;;
+    opacity: 1;
+    font-family: 'Manrope', sans-serif !important;
+}
+
+.div-container {
+    display: flex;
+    width: 100%;    
+}
+
+.div-navbar {
+    width: 5%;    
+    box-shadow: 0px 3px 50px #00000029;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.div-routes {
+    width: 100%;
+}

@@ -1,0 +1,132 @@
+* {
+    text-decoration:none !important;
+}
+
+body {
+	font-family: monospace;
+    color: #333333;
+    background-color: transparent;
+}
+
+.price {
+    text-align: left;
+    font: Semibold 20px/33px Manrope;
+    letter-spacing: 0px;
+    color: #5E3BA5;
+    background-color: #ffffff !important;
+    opacity: 1;
+    font-size: 14px;
+}
+
+.favorite {
+    font-size: 8px !important;  
+}
+
+.item-favorite{
+    align-content: right;
+}
+
+.box-price {
+    background-color: #ffffff !important;  
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.box-price img {
+    height: 7px;
+    width: 14px;
+}
+
+.box-price label {
+    background-color: #ffffff !important;    
+}
+
+.box-container {
+    background-color: #ffffff !important;  
+    padding-bottom: 5px;
+    box-shadow: 0px 10px 20px #16319B29;
+    border-radius: 3px;  
+}
+
+.box-image {
+    margin: 0;
+    background-color: #ffffff !important;
+    
+}
+
+.box-image img {
+    width: 100%;
+}
+
+.description {
+    text-align: left;
+    font: Semibold 20px/33px Manrope;
+    letter-spacing: 0px;
+    color: #282430;
+    background-color: #ffffff !important;
+    opacity: 1;
+}
+
+.product-details {
+    box-shadow: 0px 10px 20px #16319B29;
+    background-color: #ffffff !important;
+    border-radius: 3px;
+    padding-left: 10px;
+    padding-right: 10px;    
+}
+
+.box-product {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.item {    
+    padding-left: 20px;
+    padding-right: 20px; 
+    padding-bottom: 20px;   
+    width: 20%;        
+}
+
+.item-price {
+    width: 59%;
+    background-color: #ffffff !important;
+}
+
+.item-favorite {
+    background-color: #ffffff !important;
+}
+
+header {
+    padding-left: 50px;
+}
+
+header p {
+    background-color: transparent !important;
+}
+
+.box-details {
+    background: #FFFFFF 0% 0% no-repeat padding-box !important;
+    padding: 10px;
+    line-height: 2.0;
+    opacity: 1;
+    width: inherit;
+}
+
+p {
+    text-align: left;
+    font: Regular 14px/23px Manrope;
+    letter-spacing: 0px;
+    color: #8E879E;
+    opacity: 1;
+    text-decoration: none !important;
+    background-color: #ffffff !important;
+    text-align: left !important;
+    font-size: 10px;
+}
+
+label {
+    font-size: 12px;
+}
